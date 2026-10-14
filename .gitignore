@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+build/
+dist/
+*.app
+.DS_Store
+# note の記事の下書き（note で公開するもの）
+note/
